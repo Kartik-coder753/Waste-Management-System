@@ -1,6 +1,6 @@
 # Waste-Management-System
 A web based platform for citizens to report waste and garbage issues to their municipality, track complaint status, and learn about proper waste management practices and development . The system includes user authentication with email verification, complaint submission with image upload, and an admin panel for managing complaints.
-More Updates Coming soon !!!...
+More Updates Coming Soon !!!...
 
 ## Features
 
